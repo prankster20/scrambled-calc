@@ -3678,7 +3678,7 @@ var SV_PATCH = {
         willCrit: true
     },
     "Aura Wheel": {
-        bp: 120,
+        bp: 110,
         type: "Electric",
         category: "Physical",
         secondaries: true
