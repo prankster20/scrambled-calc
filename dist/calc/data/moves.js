@@ -4519,7 +4519,7 @@ var SV_PATCH = {
         type: "Grass",
         category: "Special",
         target: "allAdjacentFoes",
-        drain: [50, 100],
+        drain: [100, 100],
         secondaries: true
     },
     "Syrup Bomb": {
