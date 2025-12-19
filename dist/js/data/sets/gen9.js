@@ -178,7 +178,7 @@ var SETDEX_SV = {
 			ability: "Moody",
 			item: "Starf Berry",
 			nature: "Jolly",
-			moves: ["Power Trip", "Engorge", "Protect", ""],
+			moves: ["Power Trip", "Engorge", "Detect", ""],
 			evs: {
 				hp: 252,
 				sp: 252,
