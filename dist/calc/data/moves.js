@@ -224,7 +224,7 @@ var SV_PATCH = {
         type: "Steel",
         category: "Physical",
         multihit: [2, 5],
-        makesContact: true,
+        makesContact: false,
         isPulse: true,
         isBullet: true
     },
